@@ -5,5 +5,5 @@ get '/' do
 end
 
 get '/aiit' do
-  "Welcome to AIIT"
+  "Welcome to AIIT!"
 end
